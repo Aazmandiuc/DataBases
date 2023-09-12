@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T07:56:55.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.990 (corp) Yowser/2.5 Safari/537.36" etag="sU_JnP9w34twgIecy2kh" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T08:06:14.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.990 (corp) Yowser/2.5 Safari/537.36" etag="DyXSH0iQNVIEWWcaKiPe" version="21.7.4" type="github">
   <diagram name="Страница — 1" id="i_0f-ELRC_t8fX2p_M9A">
     <mxGraphModel dx="1955" dy="1059" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,11 +43,11 @@
         <mxCell id="_c88zIwexOIIFGAXIhxc-21" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="_c88zIwexOIIFGAXIhxc-5" target="_c88zIwexOIIFGAXIhxc-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_c88zIwexOIIFGAXIhxc-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_c88zIwexOIIFGAXIhxc-5" target="_c88zIwexOIIFGAXIhxc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_c88zIwexOIIFGAXIhxc-5" value="Управляющие мероприятием" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="-160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_c88zIwexOIIFGAXIhxc-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_c88zIwexOIIFGAXIhxc-7" target="_c88zIwexOIIFGAXIhxc-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_c88zIwexOIIFGAXIhxc-7" value="Кухня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="-160" width="120" height="60" as="geometry" />
