@@ -1,0 +1,27 @@
+mysql -u root -p
+
+CREATE DATABASE Kudelya_Lr2_2;
+
+CREATE TABLE model (
+    -> id int AUTO_INCREMENT primary key,
+    -> Brand VARCHAR(20) NOT NULL,
+    -> Price decimal(18,2),
+    -> Guarantee date,
+    -> Reviews VARCHAR(255));
+
+CREATE TABLE Country (
+    -> id int AUTO_INCREMENT primary key,
+    -> Nationality varchar(255),
+    -> Country_of_production varchar(255),
+    -> Creator varchar(255),
+    -> History varchar(255),
+    -> Reputation varchar(255));
+
+CREATE TABLE Corpus (
+    -> id int AUTO_INCREMENT primary key,
+    -> Housing_material varchar(255),
+    -> Material_remeshka varchar(255),
+    -> Body_size int,
+    -> Color_ciferblat varchar(255),
+    -> Arrows varchar(255),
+    -> Glass varchar(255));
