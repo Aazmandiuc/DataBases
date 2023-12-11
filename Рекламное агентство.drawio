@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T12:33:57.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.731 YaBrowser/23.11.1.731 Yowser/2.5 Safari/537.36" etag="FBHEFXt0bhe6jgIiUKOT" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T12:35:30.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.731 YaBrowser/23.11.1.731 Yowser/2.5 Safari/537.36" etag="LVs0LjbQ6A1x0mqczmMc" version="22.1.7" type="github">
   <diagram name="Страница 1" id="RJepbSxgr9JCMze_nwbU">
-    <mxGraphModel dx="2156" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2156" dy="929" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-k7Zx-D977QTdwcUHwIx-12" value="Заказчик" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;metaEdit=0;rounded=0;swimlaneLine=1;glass=0;shadow=0;noLabel=0;direction=east;fixDash=0;absoluteArcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="150" width="140" height="180" as="geometry" />
+          <mxGeometry x="1276" y="77" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-k7Zx-D977QTdwcUHwIx-13" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-k7Zx-D977QTdwcUHwIx-12" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -207,7 +207,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nOb7-5xYa6z6IrBB-SR6-39" value="Исполнитель" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="680" y="160" width="160" height="120" as="geometry" />
+          <mxGeometry x="680" y="125" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nOb7-5xYa6z6IrBB-SR6-40" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="nOb7-5xYa6z6IrBB-SR6-39" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
